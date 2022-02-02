@@ -3,7 +3,7 @@
 WELCOME! 
 this a simple tic tac toe made with Python!
 
-bellow, i going to explain how can you run this script without any problem, in this case i going to use Linux, but the steps are almost the same in anothers operational systems!
+Bellow, i going to explain how can you run this script without any problem, in this case i going to use Linux, but the steps are almost the same in anothers operational systems!
 
 ### 🔧 Installation
 
